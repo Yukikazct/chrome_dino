@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+*.log
+dino_debug.png
